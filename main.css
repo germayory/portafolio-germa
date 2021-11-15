@@ -1,0 +1,14 @@
+body{
+    color: indigo;
+ background-color: peachpuff;
+        font-family: cursive;
+        background-image:url();
+}
+ p{
+    color: rebeccapurple;
+  font-style: italic;
+ }
+ li {
+     list-style: none;
+ }
+ 
