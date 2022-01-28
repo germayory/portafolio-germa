@@ -1,14 +1,131 @@
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
 body{
     color: indigo;
  background-color: peachpuff;
         font-family: cursive;
-        background-image:url();
+        background-repeat: no-repeat;
+
+        
+        background-image:url("https://www.10wallpaper.com/wallpaper/1920x1440/1302/hanalei_hawaii-Perfect_natural_HD_Desktop_Wallpaper_1920x1440.jpg");
+}
+ul{
+  padding: 10px 10px 10px 10px; 
+  list-style-type: none;
+text-decoration: none;
+
+
+  margin: 0;
+}
+
+
+.Home{
+  color: azure;
+  background-color: burlywood;
+  padding: 10px 10px 10px 10px; 
+  margin: 10%;
+  font-family: 'Courier New', Courier, monospace;
+
+
+}
+.AboutMe{
+  color: azure;
+  background-color: rgb(44, 42, 39);
+    padding: 10px 10px 10px 10px; 
+    margin: 10%;
+    font-family: 'Courier New', Courier, monospace
+
+}
+.ContactMe{
+  color: azure;
+  background-color: rgb(136, 134, 131);
+  padding: 10px 10px 10px 10px; 
+  margin: 10%;
+ 
+  font-family: 'Courier New', Courier, monospace
+
+
 }
  p{
     color: rebeccapurple;
   font-style: italic;
  }
+.navegador{
+  background-color: rgb(236, 165, 139);
+  list-style: none;
+  
+}
+
+
+.navegador a{
+  padding: 10px 10px 10px 10px;
+  margin: 50px;
+  
+  font-family: 'Courier New', Courier, monospace;
+  list-style-type: none;
+  text-decoration: none;
+
+}
+
+a:hover{
+  background-color: rgb(136, 134, 131);
+}
+
+
+
+
+ /*Diseño Navegador*/
+/*
+.navbar{
+  margin-top: 50px;
+  list-style: none;
+}
+ /**/
+ /*
  li {
      list-style: none;
  }
+  
+
+  div.About{
+      background-color: ;
+  }
+  .navbar ul li{
+    background-color:orange;
+    margin-top: 50%;
+    padding-top: 50%;
  
+
+    font-size: 1.5rem;
+
+    
+    
+  }
+div.container{
+  background-color: rgb(255, 255, 255);
+  opacity: 0.6;
+  padding: 50px 50px;
+}
+
+  .navbar{
+    align-items: center;
+    margin: 50%;
+    padding: 10%;
+    
+    background-color: orange;
+  }
+  
+   
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+   
+*/
